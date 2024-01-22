@@ -16,11 +16,11 @@ base_packages = [
     "matplotlib>=3.4.3",
     "scikit_learn>=1.1.0",
     "srsly>=1.0.5",
-    "octis==1.10.2"
+    "octis>=1.10.2"
 ]
 
 bertopic_packages = [
-    "bertopic==0.9.4"
+    "bertopic>=0.9.4"
 
 ]
 
