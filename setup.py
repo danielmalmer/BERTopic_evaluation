@@ -14,7 +14,7 @@ docs_packages = [
 base_packages = [
     "nltk>=3.2.4",
     "matplotlib>=3.4.3",
-    "scikit_learn>=0.23.2",
+    "scikit_learn>=1.1.0",
     "srsly>=1.0.5",
     "octis==1.10.2"
 ]
